@@ -6,6 +6,7 @@ The free 4x paper game designed by Jne[CrAcK]
 **Cette version du jeu n'est pas terminée, de nombreuses corrections orthographiques et un équilibre du jeu est nécessaire avant que le jeu soit pleinement jouable.**
 
 ## Création
+
 SpacePaper est né le 7 juin 2018 dans l’esprit perturbé d’un trentenaire fanatique de jeux de plateau
 (Projet Gaïa et Terra Mystica) et de jeux vidéos 2x et 4x (exploration, expansion, exploitation et
 extermination). L’idée de base était de calquer la profondeur stratégique d’un jeux vidéo 4x sur un jeux de
@@ -43,6 +44,8 @@ d’un papier blanc afin de rendre les parties plus lisibles. Chaque couleur de 
 page.
 
 ## Organisation du dépôt
+
+**Le ficher final.pdf contient le jeu ainsi que les règles.**
 
 * création - avant la création du jeu, calculs d'équilibrage probalistes...
 * planches - les plateaux, tables et marqueurs au format INKSCAPE
