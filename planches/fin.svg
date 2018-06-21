@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-252.14286"
+     inkscape:cx="-887.85715"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,7 +54,7 @@
      id="layer1">
     <g
        id="g14991"
-       transform="matrix(0.5385173,0,0,0.5385173,-3639.066,611.29835)">
+       transform="matrix(0.62488468,0,0,0.62488468,-4281.7562,685.96467)">
       <g
          transform="translate(823.09423,-17.743351)"
          id="g14482">
