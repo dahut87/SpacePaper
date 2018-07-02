@@ -52,12 +52,12 @@ print "Evaluations statistiques sur %d lances" % lancer
 etoiles={'2':'Naine Brune','6-7':'Naine Rouge','8-9':'Naine Jaune','3-4':'Geante rouge','5':'Geante bleue','11':'Super geante R','12':'Etoile double','10':'Trou noir'}
 types={
 'Naine Brune': {'2':'Tellurique','10-12':'Gazeuse','5-7':'Gelee','4':'Oceanique','8-9':'Sterile','3':'Lave','0':'Vivante'},
-'Naine Rouge': {'11':'Tellurique','9-10':'Gazeuse','6-7':'Gelee','8':'Oceanique','2-4':'Sterile','5':'Lave','12':'Vivante'},
-'Naine Jaune': {'7-8':'Tellurique','10':'Gazeuse','9':'Gelee','5-6':'Oceanique','2':'Sterile','11-12':'Lave','3-4':'Vivante'},
-'Geante rouge': {'11-12':'Tellurique','5-6':'Gazeuse','2':'Gelee','4':'Oceanique','9-10':'Sterile','7-8':'Lave','3':'Vivante'},
-'Geante bleue': {'12':'Tellurique','5':'Gazeuse','0':'Gelee','4':'Oceanique','6-8':'Sterile','9-11':'Lave','2-3':'Vivante'},
-'Super geante R': {'11-12':'Tellurique','4-5':'Gazeuse','0':'Gelee','0':'Oceanique','2-3':'Sterile','6-10':'Lave','0':'Vivante'},
-'Etoile double': {'2-4':'Tellurique','5-6':'Gazeuse','10':'Gelee','0':'Oceanique','7-9':'Sterile','0':'Lave','11-12':'Vivante'}}
+'Naine Rouge': {'11-12':'Tellurique','9-10':'Gazeuse','6-7':'Gelee','8':'Oceanique','2-4':'Sterile','5':'Lave','0':'Vivante'},
+'Naine Jaune': {'7-8':'Tellurique','10':'Gazeuse','9':'Gelee','5-6':'Oceanique','3-4':'Sterile','11-12':'Lave','2':'Vivante'},
+'Geante rouge': {'10-12':'Tellurique','5-6':'Gazeuse','3':'Gelee','4':'Oceanique','9':'Sterile','7-8':'Lave','2':'Vivante'},
+'Geante bleue': {'12':'Tellurique','5-6':'Gazeuse','3':'Gelee','4':'Oceanique','7-8':'Sterile','9-11':'Lave','2':'Vivante'},
+'Super geante R': {'11':'Tellurique','2-4':'Gazeuse','0':'Gelee','12':'Oceanique','5':'Sterile','6-10':'Lave','0':'Vivante'},
+'Etoile double': {'2-4':'Tellurique','5-6':'Gazeuse','8-9':'Gelee','10':'Oceanique','7':'Sterile','11-12':'Lave','0':'Vivante'}}
 
 nombres={
 'Naine Brune': {'5-8':1,'9-11':2,'4':3,'3':4,'2':5,'12':6},
