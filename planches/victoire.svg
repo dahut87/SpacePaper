@@ -4571,8 +4571,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2534347"
-     inkscape:cx="284.13807"
-     inkscape:cy="685.06294"
+     inkscape:cx="434.52484"
+     inkscape:cy="674.69144"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -26252,7 +26252,7 @@
          x="152.64207"
          y="541.21674"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines';text-align:center;text-anchor:middle"
-         id="tspan13585"> </tspan></text>
+         id="tspan13585" /></text>
     <g
        id="g10235"
        transform="matrix(0.36531789,0,0,0.36531789,-134.3352,519.07501)"
@@ -26281,17 +26281,5 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.36284924px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="103.91582"
-       y="508.59467"
-       id="text13587"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan13589"
-         x="103.91582"
-         y="508.59467"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines'">Géantes au maximum</tspan></text>
   </g>
 </svg>
