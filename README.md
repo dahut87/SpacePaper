@@ -9,7 +9,7 @@ The free 4x paper game designed by Jne[CrAcK]
 
 SpacePaper est né le 7 juin 2018 dans l’esprit d’un trentenaire fanatique de jeux de plateau (Projet Gaïa et Terra Mystica) et de jeux vidéos 2x et 4x (exploration, expansion, exploitation et extermination). L’idée de base était de calquer la profondeur stratégique d’un jeux vidéo 4x sur un jeux de plateau tout en gardant la possibilité de pouvoir l’imprimer aisément sur du simple papier coloré. Seul un dé et quelques marqueurs (cailloux ou pions) seront utiles pour jouer.
 
-## Licence et gratuité
+## Licence et gratuité [![Licence Creative Commons CC-BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)
 
 SpacePaper est gratuit et il peut être modifié (règle et visuel) et republié sous un autre nom du moment que le nom SpacePaper apparaît quelque part dans le titre, ex : « SpacePaper, un nouvel horizon » ou « SpacePaper II ». Il ne doit en aucun cas faire l’objet de commerce ou de toute autre activité lucrative que ce soit.
 
