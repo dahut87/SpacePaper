@@ -8,7 +8,7 @@
 
 ## Création
 
-Spacepaper est né le 7 juin 2018 dans l’esprit d’un trentenaire fanatique de jeux de plateau et de jeux vidéos 2x et 4x (exploration, expansion, exploitation et extermination). L’idée de base était de calquer la profondeur stratégique d’un jeux vidéo 4x sur un jeux de plateau tout en gardant la possibilité de pouvoir l’imprimer aisément sur du simple papier coloré. Seul quelques jetons colorés (cailloux ou pions) seront utiles pour jouer.
+Spacepaper est né le 7 juin 2018 dans l’esprit d’un trentenaire fanatique de jeux de plateau et autres jeux vidéos 2x ou encore 4x (eXploration, eXpansion, eXploitation et eXtermination). L’idée initiale était de calquer la profondeur stratégique d’un jeux vidéo 4x sur un jeux de plateau tout en gardant la possibilité de pouvoir l’imprimer aisément sur du simple papier coloré. Seuls quelques marqueurs seront utiles afin de jouer une partie de Spacepaper.
 
 ## Licence et gratuité [![Licence Creative Commons CC-BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)
 
@@ -23,6 +23,9 @@ Spacepaper se déroule en 2120 après J.C, à l’aube du voyage interstellaire.
 ## Imprimer le jeu
 
 Pour imprimer le jeux il faut se rendre en fin de ce manuel pour trouver les planches nécessaires à l’impression. Il est préférable d’utiliser au minimum 4 papiers de couleur (Vert, Rouge, Bleu et Jaune) en plus d’un papier blanc afin de rendre les parties plus lisibles.
+
+![jeu](https://github.com/dahut87/SpacePaper/blob/master/images/espace.svg.png)
+
 
 ## Organisation du dépôt
 
