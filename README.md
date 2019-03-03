@@ -24,7 +24,7 @@ Spacepaper se déroule en 2120 après J.C, à l’aube du voyage interstellaire.
 
 Pour imprimer le jeux il faut se rendre en fin du manuel pour trouver les planches nécessaires à l’impression. Il est préférable d’utiliser au minimum 4 papiers de couleur (Vert, Rouge, Bleu et Jaune) en plus d’un papier blanc afin de rendre les parties plus lisibles.
 
-[Manuel](https://raw.githubusercontent.com/dahut87/SpacePaper/master/final.pdf)
+[Manuel et planche imprimables à télécharger](https://raw.githubusercontent.com/dahut87/SpacePaper/master/final.pdf)
 
 ![jeu](https://github.com/dahut87/SpacePaper/blob/master/images/espace.svg.png)
 
@@ -42,8 +42,8 @@ Pour imprimer le jeux il faut se rendre en fin du manuel pour trouver les planch
 
 ## Historique
 
-7 juin 2018 - Création d'un jeu imprimable
-juillet 2018 - Test du jeu
-février 2019 - Remastering des règles
-mars 2019 - Test de Spacepaper V2.0
+* 7 juin 2018 - Création d'un jeu imprimable
+* juillet 2018 - Test du jeu
+* février 2019 - Remastering des règles
+* mars 2019 - Test de Spacepaper V2.0
 
