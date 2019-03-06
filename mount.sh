@@ -1,0 +1,2 @@
+#!/bin/bash
+pdftk ./règles/spacepaper.pdf ./pdf/combats.pdf ./pdf/victoire.pdf ./pdf/rosasse.pdf ./plateau/plateau.pdf ./pdf/fin1.pdf ./pdf/fiche3.pdf ./pdf/fin3.pdf ./pdf/engagement.pdf ./pdf/fiche2.pdf ./pdf/fiche1.pdf ./pdf/civilisation1.pdf ./pdf/civilisation2.pdf ./pdf/civilisation3.pdf ./pdf/civilisation4.pdf ./pdf/civilisation5.pdf ./pdf/civilisation6.pdf ./pdf/fin2.pdf cat output final.pdf
